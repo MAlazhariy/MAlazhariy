@@ -1,6 +1,6 @@
 ## Hi, I'm Mostafa 👋
 
-![Anurag's GitHub stats](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner2.gif)
+![Anurag's GitHub stats](https://raw.github.com/MAlazhariy/MAlazhariy/main/main.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=true&show_icons=true&hide=prs,issues&hide_title=true&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
 
