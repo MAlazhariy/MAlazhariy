@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy)](https://github.com/MAlazhariy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=false&show_icons=true&&bg_color=30,00B6F1,711EF5&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAlazhariy&repo=encrypt_it)](https://github.com/MAlazhariy/encrypt_it)
-
-![codelinesBadge]
 
 Here are some ideas to get you started:
 
@@ -16,7 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!-- Badges -->
-[codelinesBadge]: https://img.shields.io/tokei/lines/github/Readme-Workflows/recent-activity?label=total%20lines%20of%20code&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNC43MiAzLjIyYS43NS43NSAwIDAxMS4wNiAxLjA2TDIuMDYgOGwzLjcyIDMuNzJhLjc1Ljc1IDAgMTEtMS4wNiAxLjA2TC40NyA4LjUzYS43NS43NSAwIDAxMC0xLjA2bDQuMjUtNC4yNXptNi41NiAwYS43NS43NSAwIDEwLTEuMDYgMS4wNkwxMy45NCA4bC0zLjcyIDMuNzJhLjc1Ljc1IDAgMTAxLjA2IDEuMDZsNC4yNS00LjI1YS43NS43NSAwIDAwMC0xLjA2bC00LjI1LTQuMjV6Ij48L3BhdGg+PC9zdmc+
 
