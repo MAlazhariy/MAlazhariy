@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi, I'm Mostafa 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=false&show_icons=true&&bg_color=30,00B6F1,711EF5&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAlazhariy&repo=encrypt_it)](https://github.com/MAlazhariy/encrypt_it)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=true&show_icons=true&hide=prs,issues&hide_title=true&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
