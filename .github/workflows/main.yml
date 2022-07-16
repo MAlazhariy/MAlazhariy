@@ -1,0 +1,19 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update README
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Update every 30 minutes
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@{version}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
