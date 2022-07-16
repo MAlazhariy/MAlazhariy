@@ -1,8 +1,8 @@
 ## Hi, I'm Mostafa 👋
 
-![Anurag's GitHub stats](https://raw.github.com/MAlazhariy/MAlazhariy/main/main.gif)
+![banner](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=true&show_icons=true&hide=prs,issues&hide_title=true&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=true&show_icons=true&hide=prs,issues&hide_border=false&icon_color=507FF8&border_color=507FF8&hide_title=true&theme=dracula&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
