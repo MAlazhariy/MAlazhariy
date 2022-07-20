@@ -11,7 +11,7 @@
 
 - Email: [Mostafa.Alazhariy@gmail.com](mailto:Mostafa.Alazhariy@gmail.com)
 
-[![My LinkedIn](https://img.shields.io/badge/-MAlazhariy-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://linkedin.com/in/malazhariy) [![My Facebook](https://img.shields.io/badge/-MAlazhariy-1877F2?logo=facebook&logoColor=white&labelColor=1877F2&style=flat)](https://facebbok.com/malazhariy) [![My Behance](https://img.shields.io/badge/-MAlazhariy-1769ff?logo=behance&logoColor=white&labelColor=1769ff&style=flat)](https://linkedin.com/in/malazhariy) [![My YouTube](https://img.shields.io/badge/-Mostafa_Alazhariy-f00?labelColor=f00&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/c/MostafaAlazhariy)
+[![My LinkedIn](https://img.shields.io/badge/-MAlazhariy-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://linkedin.com/in/malazhariy) [![My Behance](https://img.shields.io/badge/-MAlazhariy-1769ff?logo=behance&logoColor=white&labelColor=1769ff&style=flat)](https://linkedin.com/in/malazhariy) [![My YouTube](https://img.shields.io/badge/-Mostafa_Alazhariy-f00?labelColor=f00&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/c/MostafaAlazhariy)
 
 
 ---
