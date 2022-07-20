@@ -1,0 +1,5 @@
+# Ignore everything
+CV/*
+
+# But not these files...
+!CV/*.pdf
