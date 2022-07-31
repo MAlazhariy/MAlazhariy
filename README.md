@@ -3,8 +3,8 @@
 ![banner](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner.gif)
 
 - 🔭 I am currently working on **developing my skills and learning new ones**.
-- 🌱 I am currently learning **Testing & TDD, Clean Architecture, Design patterns, Data Structures, and more**.
-- 💬 Ask me about **Flutter, logo design, and design principles**.
+- 🌱 I am currently learning **Clean Architecture, Data Structures, Design patterns, and more**.
+- 💬 Ask me about **Flutter, and design principles**.
 
 ---
 
