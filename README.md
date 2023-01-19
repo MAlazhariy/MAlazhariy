@@ -50,9 +50,10 @@ It is being worked on, state management is being added and a refactor is being m
 
 
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&count_private=true&hide_rank=true&show_icons=true&hide=prs,issues&hide_border=true&icon_color=507FF8&border_color=507FF8&hide_title=true&theme=dracula&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=MAlazhariy&hide_rank=true&show_icons=true&hide=prs,issues&hide_border=true&icon_color=507FF8&border_color=507FF8&hide_title=true&theme=dracula&custom_title=My+Stats)](https://github.com/MAlazhariy/github-readme-stats)
 
 
 <!-- 
 I'm passionate about developing my skills and gaining more experience.
+count_private=true is not working
  -->
