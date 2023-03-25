@@ -28,7 +28,10 @@
 
 Encrypt It is an application that encrypts texts with unique encryption algorithms with a complete change in text letters and their arrangement, which gives more protection and security.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=malazhariy.encryptIt)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=malazhariy.encryptIt) 
+<!-- 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=malazhariy.encryptIt)
+ -->
 
 ---
 
