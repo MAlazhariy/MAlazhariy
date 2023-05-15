@@ -2,13 +2,13 @@
 
 ![banner](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner.gif)
 
-- 🔭 I am currently working on **developing my skills and learning new ones**.
-- 🌱 I am currently learning **Clean Architecture, Architecture patterns, Design patterns, and more**.
-- 💬 Ask me about **Flutter, and design principles**.
+- 🔭 I am currently working at Semicolon Co.
+<!-- - 🌱 I am currently learning **Clean Architecture, Architecture patterns, Design patterns, and more**. -->
+<!-- - 💬 Ask me about **Flutter, and design principles**. -->
 
 ---
 
-### [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20-%20Flutter%20dev%20CV.pdf)
+### [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20CV.pdf)
 
 ---
 
