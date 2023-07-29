@@ -8,7 +8,7 @@
 
 ---
 
-### [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20CV.pdf)
+### [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
 
 ---
 
