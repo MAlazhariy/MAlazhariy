@@ -2,7 +2,7 @@
 
 ![banner](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner.gif)
 
-- 🔭 I am currently working at Semicolon Co.
+- 🔭 I am currently working on a personal project.
 <!-- - 🌱 I am currently learning **Clean Architecture, Architecture patterns, Design patterns, and more**. -->
 <!-- - 💬 Ask me about **Flutter, and design principles**. -->
 
