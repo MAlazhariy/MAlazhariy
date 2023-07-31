@@ -8,7 +8,9 @@
 
 ---
 
-### [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
+## [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
+
+[<img src="https://github.com/MAlazhariy/MAlazhariy/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
 
 ---
 
