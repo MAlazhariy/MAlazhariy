@@ -1,6 +1,8 @@
-## Hello world 👋, I'm Mostafa Alazhariy.
+<!-- ## Hello world 👋, I'm Mostafa Alazhariy. -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=300&color=F7F7F7&background=0D061F&repeat=false&random=false&width=435&lines=Hello+world+%F0%9F%91%8B%2C;I'm+Mostafa+Alazhariy.)](https://git.io/typing-svg)
 
 ![banner](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner.gif)
+
 
 - 🔭 I am currently working on a personal project.
 <!-- - 🌱 I am currently learning **Clean Architecture, Architecture patterns, Design patterns, and more**. -->
@@ -12,14 +14,19 @@
 
 [<img src="https://github.com/MAlazhariy/MAlazhariy/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
 
----
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 📫 Connect with me
 
 - Email: [Mostafa.Alazhariy@gmail.com](mailto:Mostafa.Alazhariy@gmail.com)
 
 [![My LinkedIn](https://img.shields.io/badge/-MAlazhariy-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://linkedin.com/in/malazhariy) [![My YouTube](https://img.shields.io/badge/-MAlazhariy-f00?labelColor=f00&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@MAlazhariy) [![My Behance](https://img.shields.io/badge/-MAlazhariy-1769ff?logo=behance&logoColor=white&labelColor=1769ff&style=flat)](https://linkedin.com/in/malazhariy)
----
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 
 ## 👨‍💻 Samples from my projects:
@@ -50,7 +57,9 @@ It is being worked on, state management is being added and a refactor is being m
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=malazhariy.ramadan_kareem)
 
----
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 
 
