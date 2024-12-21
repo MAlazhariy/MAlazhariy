@@ -1,5 +1,5 @@
 <!-- ## Hello world 👋, I'm Mostafa Alazhariy. -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=300&color=F7F7F7&background=0D061F&repeat=false&random=false&width=435&lines=Hello+world+%F0%9F%91%8B%2C;I'm+Mostafa+Alazhariy.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=250&color=F7F7F7&background=0D061F&repeat=false&random=false&width=435&lines=Hello+world+%F0%9F%91%8B%2C;I'm+Mostafa+Alazhariy.)](https://git.io/typing-svg)
 
 ![banner](https://raw.github.com/MAlazhariy/MAlazhariy/main/banner.gif)
 
@@ -61,7 +61,9 @@ An app for car washing and parking services in the Kingdom of Saudi Arabia with 
 
 Classified AD application in Turkey.
 
-I was responsible for developing the app from scratch as well as improving the app interface.
+- I was responsible for developing the application from scratch in addition to designing the application interface design and improving the user experience.
+- Implementing a dynamic localization system according to the client's request, fetching language data and translations from the server, and this system was converted to a private package for easy use later in other projects.
+It was a challenge, especially on the ad publishing page with multi-language, with the feature of automatically translating the rest of the uncompleted content by handling it with Google Translate services.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/us/app/bul-ve-al/id6504882474)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=tech.drasat.bulVeAl) 
@@ -72,16 +74,27 @@ I was responsible for developing the app from scratch as well as improving the a
 ## [SpaceX](https://github.com/MAlazhariy/spaceX_b2_a)
 
 Internship mobile app project for SpaceX APIs with some simple functions.
+
 - Implementing Flutter Flavors for both Android and iOS.
+- I was assigned the responsibility of being a team leader for a team of two trainees where I was responsible for distributing tasks, reviewing the team codes, and explaining some technical matters to them such as Singleton, DI,
+BloC pattern, working with GitHub, and Clean architecture pattern.
+- I was responsible for UI & UX design decisions of the project in collaboration with my team and assigning tasks accordingly.
+
+[GitHub](https://github.com/MAlazhariy/spaceX_b2_a)
 
 ---
 
 
-## Online checker package (Soon..)
+## [Internet State Manager Package (Open Source)](https://pub.dev/packages/internet_state_manager)
 
-Flutter package for managing internet connection outages within the app.
+Flutter package designed to manage internet connection outages seamlessly within the app; ensures an uninterrupted UX by implementing a reliable data-fetching mechanism that activates once the internet connection is restored. This package allows developers to easily handle network changes and customize user interfaces based on connectivity status with easy code.
+- Actual Internet Connection Check: Accurately detects the presence of an internet connection, beyond just verifying a Wi-Fi connection.
+- Automatic Data Fetching: Implements your custom function, which is called once the internet connection is restored. This feature provides an excellent user experience as the user does not have to reload/open the application again to fetch data when the internet connection is down.
+- Builder Widget: Provides a dedicated builder widget with parameters to display various internet connection statuses, allowing control over the display of specific widgets based on the connection state.
+- Customizable Widgets: Displays the package's built-in widget or a custom widget when the internet connection is down, with periodic status updates when the connection is restored.
+- Ease of Use: Simplifies implementation by reducing the need for extensive code on every page that requires internet connection checks, making it practical and user-friendly.
 
-A seamless data fetching mechanism has been developed to ensure an uninterrupted user experience when the internet connection is restored.
+[Pub.dev](https://pub.dev/packages/internet_state_manager) - [GitHub](https://github.com/MAlazhariy/internet_state_manager)
 
 ---
 
@@ -92,7 +105,7 @@ Integrated into Mentor Academy for schools and educational centers. Enables stud
 
 - Get rewarded by the manager for understanding project requirements, quickly implementing key features, and delivering them under pressure within a week.
 - Continuous customer support for 6 months, dealing with tasks efficiently on Notion, and testing them before deploying with direct cooperation with back-end developers which led to client appreciation for the work provided and prompt response.
-- Unit testing implemented for the exam functionality to ensure code accuracy.
+- Unit testing was implemented for exam functionality to ensure code accuracy.
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/us/app/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%8A%D8%AD%D9%8A/id1660452286)
@@ -128,19 +141,7 @@ An app that encrypts and decrypts texts by password using unique and strong encr
 - Neumorphism UI design.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=malazhariy.encryptIt)
-
-
-<!-- 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=malazhariy.encryptIt)
- -->
  
-<!--
----
-
-## [Keefak](https://github.com/MAlazhariy/keefak_social-app)
-
-Keefak is a simple social app for posting and chatting using Flutter with Firebase.
--->
 
 <!--
 ---
