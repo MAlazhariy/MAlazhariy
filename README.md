@@ -39,6 +39,28 @@
 
 ----
 
+## Al-Rahma Mobile
+
+Al-Rahma Hospital mobile app is a multi-module Flutter application designed to elevate patient care and simplify the management of the hospital's corporate clients and their patients. It empowers users to book appointments, review medical records and test results, track vitals, and access telemedicine and emergency services.
+
+- Took **ownership** at project kickoff by collaborating one-on-one with the manager to analyze requirements, made key UX decisions, and set the deadline; initiated a front-end-first strategy to leverage downtime—**saving costs, accelerating timeline, simplifying backend handovers.**
+- Managed architecture and workflow, and provided ongoing post-launch support. 
+- Designed the UI and built a high-fidelity Figma interactive prototype, and quickly mastered the tools.
+- Parallel Frontend Development: created mock data to simulate backend behavior, and defined expected API schemas into a Postman collection during development; then gradually switched each completed module to live backend data with a one-line code change, which ensured a smooth handoff and progressive data integration.
+- Acted as **team lead** by configuring a GitHub integration for immediate backend testing (avoiding deployment delays), performing **QA** on done features, participating in technical discussions, and building a Notion workflow to **track tasks**, log **bugs**, and **monitor progress**, which streamlined communication, reduced meeting time, and accelerated delivery.
+- Designed and implemented a highly customized payment solution to address the lack of local credit gateways in Djibouti; coordinated closely with the backend developer to architect a flexible payment logic supporting wallet, cash, bank transfer, company insurance (partial/full), and receipt-based local payments; ensured minimal error risk for this critical feature.
+- Implemented dynamic data presentation logic that filters available doctors, schedules, and services based on working hours, holidays, and visit type, tailored for low-tech users to ensure a smooth and intuitive UX.
+- Implemented role-based access control solution, assigning tailored permissions to employees to access corporate accounts, billing, and patient data—seamlessly coordinated with backend services.
+- Developed a CLI alias script for automatic feature scaffolding, boosting development productivity by over 50% and accelerating repetitive coding tasks.
+- Built smart data presentation logic that dynamically filters available doctors, schedules, and services based on working hours, holidays, and visit type, tailored for low-tech users to ensure a smooth and intuitive experience.
+- Developed a color system generation via a Python script, producing grayscales, tints, shades, and typographic palettes for consistent theming.
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=tech.drasat.rahmaHospital) 
+
+    
+---
+
 ## Amyal Service
 
 An app for car washing and parking services in the Kingdom of Saudi Arabia with reservations and subscriptions implemented from scratch.
