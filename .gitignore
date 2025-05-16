@@ -3,5 +3,4 @@ CV/*
 *.ini
 
 # But not these files...
-!CV/*.pdf
-!CV/*.indd
+!CV/*cv.pdf
