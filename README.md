@@ -52,7 +52,6 @@ Al-Rahma Hospital mobile app is a multi-module Flutter application designed to e
 - Implemented dynamic data presentation logic that filters available doctors, schedules, and services based on working hours, holidays, and visit type, tailored for low-tech users to ensure a smooth and intuitive UX.
 - Implemented role-based access control solution, assigning tailored permissions to employees to access corporate accounts, billing, and patient data—seamlessly coordinated with backend services.
 - Developed a CLI alias script for automatic feature scaffolding, boosting development productivity by over 50% and accelerating repetitive coding tasks.
-- Built smart data presentation logic that dynamically filters available doctors, schedules, and services based on working hours, holidays, and visit type, tailored for low-tech users to ensure a smooth and intuitive experience.
 - Developed a color system generation via a Python script, producing grayscales, tints, shades, and typographic palettes for consistent theming.
 
 
