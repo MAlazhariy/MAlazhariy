@@ -39,7 +39,7 @@
 
 ----
 
-## Al-Rahma Mobile
+## Al-Rahma Hospital
 
 Al-Rahma Hospital mobile app is a multi-module Flutter application designed to elevate patient care and simplify the management of the hospital's corporate clients and their patients. It empowers users to book appointments, review medical records and test results, track vitals, and access telemedicine and emergency services.
 
@@ -57,6 +57,27 @@ Al-Rahma Hospital mobile app is a multi-module Flutter application designed to e
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=tech.drasat.rahmaHospital) 
 
+
+---
+
+## Taxi Proche - Uber clone
+
+Taxi Proche is a ride-hailing app for Djibouti, built on a CodeCanyon Uber clone. After vetting and selecting the optimal codebase, I dove into its complex structure to deliver major edits, refactor and migrate code, fix native issues, resolve bugs, and implement new features with continuous testing to ensure stability and alignment with business needs.
+
+* Evaluated and selected optimal codebase after thorough analysis of available ride-hailing solutions, choosing the most efficient option.
+* Resolved critical Google Maps API overconsumption issue that caused excessive billing; collaborated directly with Google Cloud support team to address the problem, implemented API usage optimization, and established debug mode restrictions to reduce unnecessary costs for the client.
+* Secured Google Maps APIs by separating API responsibilities, implementing protection practices, and establishing better usage monitoring to prevent overconsumption.
+* Reduced server load by enhancing driver location updates; transitioned from MQTT to Firebase real-time connection through close backend collaboration.
+* Enhanced ride request distribution system by collaborating with a backend developer to implement an automated cron job solution, eliminating manual driver rejection requirements and enabling automatic request forwarding to the next available driver, significantly improving system efficiency.
+* Developed advanced trip management features, including estimated pricing, trip cancellation, estimated arrival time calculation based on distance and driver speed, and VIP trip functionality with no destination requirement.
+* Implemented deep code refactoring to eliminate tight coupling, reduce unnecessary server requests, and maintain clean code practices.
+* Designed and implemented a custom server-driven localization system and converted it into a package later.
+* Improved iOS user experience by implementing back-swipe navigation and dismissible keyboard functionality when tapping outside input fields.
+* Merging codebase updates to the current project codebase using proper Git practices while maintaining custom features and client-specific modifications.
+* Maintained and uploaded the web version to the server environment.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/us/app/taxi-porche/id6630386853)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=tech.drasat.taxiProche) 
     
 ---
 
@@ -70,7 +91,7 @@ An app for car washing and parking services in the Kingdom of Saudi Arabia with 
 - Implementing real-time pricing for products, discounts, and taxes, and dealing with payment cases in the application smoothly.
 - Cleanly validate in-app dates and input fields, improving the UX. 
 - Implementing code extensions to facilitate text styles in the application and facilitate modification or adding dark mode later. 
-- Implementing functions to facilitate the user experience such as simultaneously processing license plate data entry in both languages and performing validation as required, leading to successful application functionality and fewer bugs.
+- Implementing functions to facilitate the user experience, such as simultaneously processing license plate data entry in both languages and performing validation as required, leading to successful application functionality and fewer bugs.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Get app" width="150"/>](https://apps.apple.com/eg/app/amyal-service-%D8%A3%D9%85%D9%8A%D8%A7%D9%84-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/id6468041674)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get app" width="150"/>](https://play.google.com/store/apps/details?id=com.amyal.services) 
