@@ -10,10 +10,15 @@
 
 ---
 
+## [📃 My CV](https://bit.ly/malazhariy_cv_drive)
+
+[<img src="https://github.com/MAlazhariy/MAlazhariy/blob/main/assets/cv%20thumb.svg" alt="Click to View my CV" width="350"/>](https://bit.ly/malazhariy_cv_drive)
+
+<!--
 ## [📃 My CV](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
 
 [<img src="https://github.com/MAlazhariy/MAlazhariy/blob/main/assets/cv%20thumb.svg" alt="Click to download my CV" width="350"/>](https://raw.github.com/MAlazhariy/MAlazhariy/main/CV/Mostafa%20Mahmoud%20Alazhariy%20cv.pdf)
-
+-->
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -22,7 +27,8 @@
 
 - Email: [Mostafa.Alazhariy@gmail.com](mailto:Mostafa.Alazhariy@gmail.com)
 
-[![My LinkedIn](https://img.shields.io/badge/-MAlazhariy-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://linkedin.com/in/malazhariy) [![My YouTube](https://img.shields.io/badge/-MAlazhariy-f00?labelColor=f00&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@MAlazhariy) [![My Behance](https://img.shields.io/badge/-MAlazhariy-1769ff?logo=behance&logoColor=white&labelColor=1769ff&style=flat)](https://linkedin.com/in/malazhariy)
+[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&labelColor=0077b5&style=flat)](https://linkedin.com/in/malazhariy) [![My YouTube](https://img.shields.io/badge/-YouTube-f00?labelColor=f00&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@MAlazhariy) [![My Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white&style=flat)](https://stackoverflow.com/users/16449728/mostafa-alazhariy)
+ [![My Behance](https://img.shields.io/badge/-Behance-1769ff?logo=behance&logoColor=white&labelColor=1769ff&style=flat)](https://www.behance.net/MAlazhariy)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
